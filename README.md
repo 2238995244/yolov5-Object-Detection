@@ -6,6 +6,7 @@ VOCData——<br>
         ——images（训练图片）<br>
         ——ImageSets（说明文件）<br>
         ——labels（训练结果）<br>
+
 xml_to_yolo.py文件和split_train_val.py文件放置于项目文件夹下，主要用于转换文件格式等<br>
 detect.py文件替换yolov5中原本的detect.py文件<br>
 yolov5s.pt是预训练模型<br>
