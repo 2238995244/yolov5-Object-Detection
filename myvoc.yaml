@@ -1,0 +1,8 @@
+train: D:/yolov5/VOCData/dataSet_path/train.txt
+val: D:/yolov5/VOCData/dataSet_path/val.txt
+
+# number of classes
+nc: 4
+
+# class names
+names: ["Text","Figure","Table","Equation"]
